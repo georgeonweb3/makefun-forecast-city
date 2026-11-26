@@ -22,6 +22,8 @@ ENTRY = (
 
 # Gate from the competition brief: a single line of no more than
 # 120 characters, a weather forecast for a city that does not exist.
+# (120 is this competition's own ceiling, not the 240 of other
+# one-liner bounties — the entry is 110 chars, inside it.)
 MAX_CHARS = 120
 
 
